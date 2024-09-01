@@ -1,5 +1,8 @@
 /target/
 /src/test/xtend-gen/**
+.settings/**
+.classpath
+.project
 
 # Compiled class file
 *.class
